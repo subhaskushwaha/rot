@@ -36,7 +36,8 @@ const questions = [
         question_hi: "विद्युत आवेश का SI मात्रक क्या है?",
         options_en: ["Coulomb", "Ampere", "Volt", "Ohm"],
         options_hi: ["कूलॉम", "एम्पीयर", "वोल्ट", "ओम"],
-        answer: "Coulomb",
+        answer: "Coulomb ",
+       
         attempted: false,
         selected: ""
     },
