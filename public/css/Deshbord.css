@@ -395,8 +395,8 @@ body {
 /* Footer Styling */
 .footer {
   height: fit-content;
-  width: calc(1570px - 300px);
-  /* width: calc(100% - 300px);  */
+  /* width: calc(1570px - 300px); */
+  width: calc(100% - 300px); 
   margin-left: 250px;
   padding: 64px 32px;
   background: url(/image_all/footer\ overlay.png) no-repeat center;
